@@ -1,0 +1,817 @@
+
+database = xoghayye/hoyga-xogta
+bas e= hayye
+data = xog
+typecast = guurash
+shortcut = gaabis
+synonym = lamide
+opposite = kalide/lid
+value = qiime
+
+//other sourcess//
+
+
+aabbe	father
+aan adkeen	easy
+aan ahayn	not
+aan iin lahayn	perfect
+aan mayrnayn	dirty
+aan sahlanayn	difficult
+aanay	empty
+abti	maternal uncle
+adag	strong, difficult
+adeer	paternal uncle
+adres	address
+af	mouth
+alaabta guriga	furniture
+alab la isku xirxiray	package
+albaab	door
+alwaax	wood
+ama	or
+amaahin	lend
+aqal	house
+aqriyid	read
+Arbaco	Wednesday
+arday	student
+aroor	morning
+aroos	marry
+asbuuc	week
+awoowe	grandfather
+Axad	Sunday
+ayeeyo	grandmother
+baabuur	car
+baahana-hay	hungry
+baan	bank
+baaxad leh	large
+badan	more
+bad-weyn	ocean
+balan-qaadid	promise
+ballaran	large
+bangi	bank
+bangiga	bank
+baqaar	store
+baraf	ice
+barasho	study, teach, learn
+bare	teacher
+bari (jiho)	east
+bariis	rice
+barkin	pillow
+baror	cry
+baruur	fat
+baryo	please
+bas	bus
+basal	onion
+basbaas	pepper
+baskiil	bicycle
+batato	potato
+bax	go
+beed	egg
+beerid	grow
+beerta ubaxa lagu beero	flower garden
+berri	tomorrow
+berrito	tomorrow
+beytamay	bathroom
+beyto-mee	toilet
+beyto-raaxo	toilet
+beytoraxa	bathroom
+bidix	left
+bil	month, moon
+bilabanaya	beginning
+bilabid	begin
+bilow	begin
+birtaawada wax lagu shiilo	frying pan
+bisad	cat
+bisha	moon
+bixid	go
+bixin	pay
+bixin	give
+biyo	water
+bog	page
+buluug	blue
+burashka ilkaha	toothbrush
+burcad	cheese
+burtuqaal	orange
+bushimo	lips
+buste	blanket
+buud	boot
+buudh	boot
+buug	book
+buuran	fat
+buuxa	full
+caafimaad	healthy
+caajis	lazy
+caano	milk
+caato	thin
+caawin	help
+cab	drink
+cabbid	drink
+cabbitaan	drink
+cabir	size
+cad	white
+cadceed	sun
+caddan	white
+cadow	enemy
+cag	foot
+cagaar	green
+cagta hoose	foot
+caleen	leaf
+caleen-shaahi	tea
+calool	stomach
+carab	tongue
+carar	run
+casaan	red
+cashaq	love
+casuumid	invite
+cawo	night
+cayil	fat
+ceyr	poor
+cimilo	weather
+cimri yar	young
+cinwaan	address
+cirka	sky
+ciyaar	play
+ciyoon	soon
+ciyow	soon
+cudud	arm
+cudur	sick
+culays badan	heavy
+culus	heavy
+cun	eat
+cunid	eat
+cuno	food
+cunug	child, baby
+cusbo	salt
+cusub	new
+da'	age
+da' weyn	old
+da' yar	young
+daacadnimo	honest
+daayr	winter
+dab	fire
+daba socod	follow
+dabaal	stupid
+dabaqad	class
+dad	people
+dahab	gold
+dal	country
+dallad	umbrella
+dambiil	bag
+daqad	window
+daqiiqad	minute
+dariiq	street
+dariishad	window
+daruur	cloud
+dawo	medicine
+dayax	moon
+dayr	fall
+dedka	roof
+degdeg	quick
+deg-deg	hurry
+derbi	wall
+deris	neighbor
+dhabar	back
+dhaciif	weak
+dhagax	stone
+dhalin yar	young
+dhamaad	over
+dhammaad	end
+dhammayn	finish
+dhaqaajiin	move
+dhaqid	wash
+dhaqsi	hurry, quick
+dhaqso	soon
+dhar	clothes
+dharaar	day
+dharka hoos laga xirta	underwear
+dheel	play
+dheelid	play
+dheer	tall, long
+dheg	ear
+dhego-dhego	earring
+dhegta wax lagu maqlo	ear
+dheh	say
+dhexda	center
+dhexdi	during
+dhibsi	hate
+dhig	put
+dhigid	put, write
+dhihid	say
+dhimasha	die
+dhimo	die
+dhinac	side
+dhinaceed	beside
+dhismo	building
+dhoof	travel
+dhoolo ka qosol	smile
+dhumid	lose
+dhunkasho	kiss
+dibedda	out
+dibno	lips
+digaag	chicken
+diger cagaar	pea
+digir cagaar	beans
+diiran	warm
+diqsi	fly
+dir	send
+diyaar	ready
+diyaarad	plane
+doog	grass
+dooga ay xooluhu daaqaan	grass
+dooli jiir	mouse
+doon	boat
+dooni	boat
+dooro	chicken
+doraad	yesterday
+dukaanka dawada	drugstore
+duq	old
+duq nimo	old
+duqsi	school
+durba	already
+duulid	fly
+eber	zero
+eedo	aunt
+eeg	look
+eey	dog
+engeg	dry
+faaruq	empty
+fadhi	sit
+fadlan	please
+fahmid	understand
+far	finger
+faraati	ring
+faras	horse
+faraxsan	happy
+farda fuulid	ride
+fargashi	ring
+fargeyto	fork
+fariisasho	sit
+fasal	class
+fasax	holiday
+fatuurad	car
+faynuus	lamp
+feedh	comb
+fekar	think
+fiican	good
+fiiri	look
+filfil	pepper
+frangabolo	stamp
+franjiteer	refrigerator
+funaanad	sweater
+furan	open
+fure	key
+furid	open
+furin	bread
+fuulid	ride
+gaaban	short
+gaabin	slow
+gaajo	hungry
+gaari yar	car
+gabar	girl
+gaboobay	old
+gacan	hand
+gacanta hore	hand
+gadaal	back (body)
+gadasho	buy
+gadh	comb
+galab	noon, afternoon, evening
+galbeed (jiho)	west
+garaac	knock
+garaacid	knock
+garab	shoulder
+garasho	understand, know
+garatid	know
+garawaati	tie
+gashanqaad	adult
+gebertaada	daughter
+geed	tree
+gelin dambe	afternoon
+gerfeer	comb
+gey	bring
+gidaar	wall
+go'	spring
+gobadh	girl
+gombo	penny
+goobabin sida kubbadda	round
+goono	skirt
+goor-dambe	late
+goor-hore	early
+guduud	red
+guri	house, building, apartment
+guursi	marry
+ha yeshe	but
+haa	yes
+habar-yar	aunt
+habeen	night
+habeenbadh	midnight
+had iyo jeer	always
+hadal	speak
+hadal la 'aan	quiet
+hadda	now
+haddii	if
+hal mar	once
+halkaas	there
+halkan	here
+hanaqaad	adult
+harag	leather
+haro ama war biyo ku jiran	lake
+harraad	thirsty
+hawada	weather
+hawl yar	easy
+hay	keep
+haye	hello, yes
+hee	yes
+hees	song
+hilib	meat
+hoos	under, down
+hoose	low
+hooseya	low
+hore	before
+hurdo	sleep
+hurdo ka toos	wake up
+idlayn	finish
+ido dheylo' ah	lamb
+iftiin la 'an	dark
+iga raali noqo	excuse me
+iibsi	buy
+iibsid	sell
+iibsid-gadid	sell
+ijaar	rent
+ilbiriqsi	second
+ilig	tooth
+ilka caseyn	smile
+illaawid	forget
+ilmeen	cry
+iminka	now
+imow	come
+ina abtida	cousin
+ina adeerka	cousin
+ina adeerta	cousin
+inaantaada	daughter
+inanka eey walalaha dhaleen	nephew
+inankage	son
+inanta eey walalaha dhaleen	niece
+injir	louse
+inkastoo	although
+inta badan	often
+inta kale	rest
+inta waqti socda	during
+irrid	door
+isbitaal	hospital
+isha wax lagu arko	eye
+iskaalso	sock
+iskuul	school
+Isniin	Monday
+istaag	stand
+istaajin	stop
+isticmaal	use
+isticmaalid	use
+iyo	with, and
+jaar	neighbor
+jaban	cheap
+jacayl	love
+jaclahay	like
+jaranjaro	stairs
+jariidad	newspaper
+jasiirad	island
+jawaab	answer
+jawiga	weather
+jeceel	love
+jeebka	pocket
+jeeq	cheque
+jerdiin	garden
+jid	street
+jidh	body
+jiid	bull
+jiilaal	winter
+jiinis	jeans
+jiiran	neighbor
+jijin	bracelet
+jiko	kitchen
+jilibka	knee
+jilicsan	soft
+Jimco	Friday
+jirka oo kululaado	fever
+jiro	sick
+jodari	mattress
+joojin	stop
+joornal	newspaper
+ka	from
+ka bacdi	after
+ka dib	after
+ka hor	before
+ka jawaabid	answer
+ka korreya	above
+ka la duwan	different
+ka tegid	leave
+kaalay	come
+kab	shoe
+kabood	coat
+kafayn kara	enough
+kafe	coffee
+kaftan	joke
+kakan	strong
+ka-kor	over
+kan	this
+kan hore	first
+kan labad	second
+kan sedexaad	third
+kaneeco	mosquito
+karhid	hate
+kaxayn	drive
+keliya	only
+ken	bring
+khaanad	shelf
+khalad	wrong
+khalad	mistake
+khaldan	wrong
+Khamiis	Thursday
+kibriid	match
+kilmad	word
+kiro	rent
+kitaab	book
+kobtan	here
+koob	cup, glass
+kood	coat
+koodh	coat
+koofiyad	hat
+koofuur (jiho)	south
+koor	jacket
+koow	one
+kor	above, high, up
+korin	grow
+ku dhawaad	almost
+ku filan	enough
+ku naban	beside
+ku sigtay	almost
+kubeerto	blanket
+kulayl	hot
+kulmid	meet
+kulul	hot
+kursi	chair
+kursiga dheer ee fadhiga	sofa
+kurta	head
+kuul	necklace
+la' aan	without
+la beeray	grow
+la bilabo	begin
+la dhaho	say
+la dhigo	put
+la istaajiyo	stop
+la joojiyo	stop
+la koriyey	grow
+la mid	similar
+la sameeyo	make
+la siiyo	give
+la siyaarto	visit
+la so salaamo	visit
+la weydiiyo	ask
+la yiradho	say
+laba goor	twice
+laba jeer	twice
+labo	two
+lacag	money, penny
+laga jawaabo	answer
+lagama marmaan	important
+lagu sawiro	xerox
+lahaan	owner
+lakiin	but
+lawga	knee
+leedahay	have
+leenahay	have
+leeyahay	have
+leh	have
+liimo qarar	grapefruit
+liimo ugunji	grapefruit
+limo macaan	orange
+loo diro ama la diro	send
+lug	leg
+lugeen	walk
+lumid	lose
+lumisid	lose
+luqun	neck
+ma aha	not
+maalin	day
+maalqabeen	rich
+maanta	today
+maantay	today
+mac	sweet
+maca	with
+macaan	sweet
+macalgada-weyn (tan cuntada)	tablespoon
+macalgada-yar (tan shahiga)	teaspoon
+macalgo	spoon
+macalin	teacher
+madaxa	head
+madax-xanuun	headache
+madbakh	kitchen
+madhan	empty
+madoonaayo	no
+madow	black
+magaalo weyn	city
+magac	name
+mahadsanid	thank you
+maktabad	library
+malaay	fish
+malab	honey
+maqaar	leather
+maqaasin	store
+maqal	shelf, listen, hear
+maqas	scissors
+maqsinka hurdada	bedroom
+mar	sometimes
+mar kale	again
+mar naba	never
+maraq	soup
+marka qaarkood	sometimes
+markasto	always
+markiiba	already
+mar-mar	sometimes
+marti	guest
+marti qaadid	invite
+mashiin	machine
+mashquul	busy
+mator	machine
+maxaa wacay	because
+maxaa yeelay	because
+maya	no
+mayrid	wash
+meel kore	high
+meel sare	high
+meeshan	here
+mesha baburka la dhigto	park
+mesha la ga helo	address
+meyrasho	bath
+midab	color
+midig	right
+miftaax	key
+miis	table
+milix	salt
+mindi	knife
+mirir	minute
+mise	or
+miskiin	poor
+moos	banana
+mucaawino	help
+mugdi	dark
+muhiim	important
+mukulaal	cat
+muraayad	mirror, glass
+murayadaha indhaha	glasses
+murugo	sad
+musqul	bathroom, toilet
+musqusha la gu qubeysto xamamka	bathroom
+muus	banana
+muusik	music
+naag	woman
+nabadeey	good-bye
+nabad-geylo	good-bye
+nacas	stupid
+nacbeysi	hate
+naceeyb	hate
+nadiif	clean
+nadiifin	clean
+naf leh	live
+nafleeyda iyo dhirta	live
+nafleydo	adult
+nasasho	rest
+nasiib	lucky
+nicid	hate
+nin	man
+ninka naagta qaba	husband
+ninka xaaska leh	husband
+nolan	live
+nolol	life
+nool	live
+oo qudha	only
+oo qura	only
+oon	thirsty
+ooyid	cry
+ooyin	cry
+orad	run
+orah	say
+ordid	run
+qaac	smoke
+qaadasho	take
+qaadid	take, carry
+qaali ah	expensive
+qabo	catch
+qabow	cold
+qado	lunch, dinner
+qalal	dry
+qalalan	dry
+qalin	pencil
+qalinka khadka leh	pen
+qandho	fever
+qaraar	sour
+qareen	lawyer
+qawi	strong
+qaxwo	coffee
+qiime	price
+qiime sare ah	expensive
+qiiq	smoke
+qime	cost
+qobka fadhiga	living room
+qof	person
+qofka yar	child
+qolka hurdada	bedroom
+qoor	neck
+qor	write
+qorax	sun
+qorid	write
+qoslid	laugh
+qosol	laugh
+qoyaan	wet
+qoyan	wet
+qoys	family
+qubeys	bath
+qudaar	vegetable
+quraac	breakfast
+qurux-badan	beautiful
+quruxsan	beautiful
+qurxoon	beautiful
+raacid	follow
+raadiyo	radio
+raashin	food
+raaxo leh	comfortable
+rabid	want
+rajabeeto	brooch
+rakhiis ah	cheap
+raqabad	neck
+raqiis	cheap
+riixid	push
+riyo	dream
+roob	rain
+rooti	bread
+rumay	toothbrush
+run	true
+saabaanka guriga	furniture
+saabuun	soap
+saacad (waqti)	hour
+sabool	poor
+sac	cow
+safar	travel
+sagxadda guriga	floor
+sahlan	easy
+salaan	stairs
+samayn	make
+san	nose
+sanad	year
+sanduuq	box
+sanjibiil	ginger
+sanka	nose
+sano	year
+saqafka	roof
+saqafka jiingadda ka hooseeya	ceiling
+saqdadhexe	midnight
+sariir	bed
+sarreya	high
+sar-weyn	building
+sawir gacan ah	picture
+sax	right
+saxan	plate
+saxan	dish
+saxiib	friend
+sax-maaha	mistake
+se	but
+Sebti	Saturday
+sedex goor	three times
+sedex jeer	three times
+setimaan	week
+shaahi	tea
+shaatiga naagaha	blouse
+shabad	letter
+shalay	yesterday
+shan farood iyo calacal	hand
+shandad	box, bag
+shanlo	comb
+shaqar la aan	quiet
+shaqo	work
+sharaab	drink
+shiinyeeri	zipper
+shilis	fat
+shimbir	bird
+shimbir baded	goose
+shimbir la rabeysto	goose
+shubaako	window
+shukulaato	chocolate
+shukumaan	towel
+shurbad	soup
+shuuli	bracelet
+sibidh	floor
+sicir	price
+sid	carry
+sida badan	often
+sidookale	too
+sigaar cabid	smoke
+sii	give
+siin	pay
+sixni	plate
+sixni	dish
+siyaaro	visit
+socod	walk
+socodsiin	move
+sonkor	sugar
+soo jiid	pull
+stambo	stamp
+subag	butter
+subax	morning
+sufriyo	saucepan
+sug	wait
+sugid	wait
+suubiin	make
+suulka gacanta	thumb
+suulka luugta	toe
+suun	belt
+taano	penny
+tabar-daran	weak
+tag	go
+tajir	rich
+takhtar	doctor
+takhtarka-ilkaha	dentist
+Talaado	Tuesday
+talaajo	refrigerator
+taraq	match
+tay	tie
+tegid	go
+telefisyoon	television
+telefoon	phone, telephone
+timo	hair
+tin	hair
+tinaar	oven
+tiro ahan	less
+tomato	tomato
+toos	wake up
+tufaax	apple
+tus	show
+tusid	show
+tuubaako	tobacco
+tuug	thief
+tuwaal	towel
+u dhexeeyo	between
+u dirid	send
+ubax	flower
+ukun	egg
+uu eg	similar
+wacan	perfect
+waddan	country
+wadid	drive
+wadnaha nafleyda	heart
+wadne	heart
+wado	street
+wakhti dambe	late
+wakhti hore	early
+walaal	brother
+walaasha	sister
+walalka	brother
+wanaagsan	good
+waqadda lacagta	cheque
+waqooyi (jiho)	north
+waqti	time
+waqtiga	time
+wargeeys	newspaper
+warqad	paper
+warqad laysu diro	letter
+wasakhsan	dirty
+wax la barto	learn
+wax yar	small
+waxba	nothing
+waxba ku jirin	empty
+webi	river
+weji	face
+weligaa	never
+weligeed	never
+weliiba	also
+weydiin	ask
+weydiis	ask
+weyn	big, large
+wiil	boy
+wiilkage	son
+xaaga	fall
+xaas	family, wife
+xafidid	keep
+xafiis	office
+xafiiska postada	post office
+xagaa	summer
+xagga dambe	back (body)
+xagga hoose	down
+xagga sare	above
+xajin	keep
+xanuun	pain
+xaraar	sour
+xaraf	letter
+xarama weyn	bag
+xariif	clever
+xataa	too
+xayawaan	animal
+xeedho	dish
+xeero	dish
+xidhan	close
+xidig	star
+xiran	close
+xummad	fever
+xun	bad
+xusul	elbow
+yaayo	tomato
+yar	small, less, young
+ziib	zipper
+
